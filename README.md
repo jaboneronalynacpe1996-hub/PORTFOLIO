@@ -1,4 +1,3 @@
-#Ronalyn Jabone
 I'm a Computer Engineer Student
 
 ## 👩‍💻 About Me
