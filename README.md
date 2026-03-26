@@ -17,22 +17,21 @@ I am a hardworking and dedicated Bachelor of Science in Computer Engineering stu
 
 ## 🖥️ Computer Hardware, Operating System, and Networking
 
-Learned computer components: CPU, RAM, motherboard, storage devices
-Understood operating system functions
-Learned networking basics: IP addressing and troubleshooting
+*Learned computer components: CPU, RAM, motherboard, storage devices
+*Understood operating system functions
+*Learned networking basics: IP addressing and troubleshooting
 
 
  ## 🐍 Python Essentials 1
-</> Learned Python fundamentals: syntax, variables, data types, and basic operations
-</> Applied conditional statements, loops, and functions
-</> Developed algorithmic thinking and problem-solving skills
+*Learned Python fundamentals: syntax, variables, data types, and basic operations
+*Applied conditional statements, loops, and functions
+*Developed algorithmic thinking and problem-solving skills
 
 
 ## 🐍 Python Essentials 2
-Learned object-oriented programming (OOP): classes and objects
-Used modules and packages for structured coding
-Applied file handling and exception handling
-* 🐍 *Python Essentials 2* * Issued by: Cisco Networking Academy / Python Institute
+*Learned object-oriented programming (OOP): classes and objects
+*Used modules and packages for structured coding
+*Applied file handling and exception handling
 
 # 📸 Certificates
 * 🎓 *Computer Hardware, Operating System, and Networking* * Issued by: Udemy
