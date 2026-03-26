@@ -3,17 +3,17 @@
 📍 Philippines
 
 
-## ✨ About Me
+# ✨ About Me
 I am a hardworking and dedicated Bachelor of Science in Computer Engineering student. I have knowledge in programming, computer hardware, and networking. I aim to apply what I have learned, continuously improve my skills, and prepare myself for a successful career in the field of technology.
 
-## 🚀 Skills
+# 🚀 Skills
 💻 Python Programming
 🧠 Problem Solving & Algorithmic Thinking
 🖥️ Computer Hardware Knowledge
 🌐 Basic Networking
 🛠️ Debugging & Troubleshooting
 
-### 📚 Certifications/Trainings:
+# 📚 Certifications/Trainings:
 
 ## 🖥️ Computer Hardware, Operating System, and Networking
 
