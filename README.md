@@ -1,3 +1,7 @@
+## I am Ronalyn Jabone
+Computer Engineering Student
+
+
 ## 👩‍💻 About Me
 Hi! I am Ronalyn Jabone, a Computer Engineering student with a strong passion for technology and continuous learning. My academic journey has focused on computer hardware, operating systems, networking, and Python programming, allowing me to build a solid foundation in both technical knowledge and problem-solving.
 
