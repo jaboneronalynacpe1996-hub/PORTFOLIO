@@ -1,6 +1,6 @@
 # 👩‍💻 Ronalyn A. Jabone
 🎓 Bachelor of Science in Computer Engineering
-📍 Philippines
+📍 Iloilo City
 
 
 ## ✨ About Me
