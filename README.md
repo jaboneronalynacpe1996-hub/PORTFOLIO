@@ -1,21 +1,47 @@
-## I am Ronalyn Jabone
-Computer Engineering Student
+## 👩‍💻 Ronalyn A. Jabone
+🎓 Bachelor of Science in Computer Engineering
+📍 Philippines
 
 
-## 👩‍💻 About Me
-Hi! I am Ronalyn Jabone, a Computer Engineering student with a strong passion for technology and continuous learning. My academic journey has focused on computer hardware, operating systems, networking, and Python programming, allowing me to build a solid foundation in both technical knowledge and problem-solving.
+## ✨ About Me
+I am a hardworking and dedicated Bachelor of Science in Computer Engineering student. I have knowledge in programming, computer hardware, and networking. I aim to apply what I have learned, continuously improve my skills, and prepare myself for a successful career in the field of technology.
 
-I have earned certifications in Computer Hardware, Operating Systems, and Networking from Udemy, as well as Python Essentials 1 and Python Essentials 2 from Cisco Networking Academy and the Python Institute. These achievements have strengthened my understanding of system fundamentals and programming concepts.
+## 🚀 Skills
+💻 Python Programming
+🧠 Problem Solving & Algorithmic Thinking
+🖥️ Computer Hardware Knowledge
+🌐 Basic Networking
+🛠️ Debugging & Troubleshooting
 
-I am eager to apply my skills in real-world projects, continuously improve my abilities, and grow in the field of technology. I enjoy exploring new trends in tech and enhancing my skills through hands-on learning and practice.
+### 📚 Certifications/Trainings:
+
+## 🖥️ Computer Hardware, Operating System, and Networking
+
+Learned computer components: CPU, RAM, motherboard, storage devices
+Understood operating system functions
+Learned networking basics: IP addressing and troubleshooting
 
 
+ ## 🐍 Python Essentials 1
+</> Learned Python fundamentals: syntax, variables, data types, and basic operations
+</> Applied conditional statements, loops, and functions
+</> Developed algorithmic thinking and problem-solving skills
 
-### 📜 My Certifications:
 
+## 🐍 Python Essentials 2
+Learned object-oriented programming (OOP): classes and objects
+Used modules and packages for structured coding
+Applied file handling and exception handling
+* 🐍 *Python Essentials 2* * Issued by: Cisco Networking Academy / Python Institute
+
+# 📸 Certificates
 * 🎓 *Computer Hardware, Operating System, and Networking* * Issued by: Udemy
 * 🐍 *Python Essentials 1* * Issued by: Cisco Networking Academy / Python Institute
 * 🐍 *Python Essentials 2* * Issued by: Cisco Networking Academy / Python Institute
 
+  
+# 📌 OBJECTIVE
+
+To apply my knowledge and skills in computer engineering in a real-world environment while continuously learning and improving professionally.
 ---
 Thank you for visiting my profile!
