@@ -8,10 +8,10 @@ I am a hardworking and dedicated Bachelor of Science in Computer Engineering stu
 
 ## 🚀 Skills
 💻 Python Programming.   
-🧠 Problem Solving & Algorithmic Thinking
-🖥️ Computer Hardware Knowledge
-🌐 Basic Networking
-🛠️ Debugging & Troubleshooting
+🧠 Problem Solving & Algorithmic Thinking.
+🖥️ Computer Hardware Knowledge.
+🌐 Basic Networking.
+🛠️ Debugging & Troubleshooting.
 
 ## 📚 Certifications/Trainings:
 
