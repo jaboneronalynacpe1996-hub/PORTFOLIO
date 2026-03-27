@@ -21,20 +21,6 @@ I am a hardworking and dedicated Bachelor of Science in Computer Engineering stu
 * Understood operating system functions
 * Learned networking basics: IP addressing and troubleshooting
 
-my-portfolio/
-├── public/
-│   ├── index.html          # Entry HTML
-│   └── favicon.ico
-├── src/
-│   ├── components/         # Reusable UI components
-│   ├── pages/              # Portfolio pages (About, Projects, Contact, etc.)
-│   ├── App.jsx             # Main application file
-│   └── main.jsx            # React entrypoint
-├── README.md               # This documentation
-├── package.json            # NPM dependencies & scripts
-├── vite.config.js          # Vite configuration
-└── jsconfig.json           # JavaScript project config
-
  ### 🐍 Python Essentials 1
 * Learned Python fundamentals: syntax, variables, data types, and basic operations
 * Applied conditional statements, loops, and functions
